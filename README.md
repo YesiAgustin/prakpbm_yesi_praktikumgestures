@@ -2,13 +2,13 @@
 # Yesi Agustin 4522210023
 
 > 1. Membuat Project Fluter
-![image](assets\1.png)
+![image](assets/1.png)
 
 > 2. Buka Code Editor 
-- ![image](assets\2.png)
+- ![image](assets/2.png)
 
 > 3. Menambahkan pada lib
-- ![image](assets\3.png)
+- ![image](assets/3.png)
 
 > 4. Mengisi Main.dart
 ![image](assets/4.png)
